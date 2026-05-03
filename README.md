@@ -31,7 +31,7 @@ It enables HR teams and leadership to move from raw data to **clear, actionable 
 The initial layout and structure of the dashboard were planned using Draw.io to ensure clear information hierarchy and user-friendly navigation.
 
 <p align="center">
-  <img src="[YOUR_DRAWIO_IMAGE_LINK](https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20sketching.png)" width="800"/>
+  <img src="https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20sketching.png" width="800"/>
 </p>
 
 **Design Considerations:**
