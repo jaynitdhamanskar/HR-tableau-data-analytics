@@ -15,15 +15,13 @@ It enables HR teams and leadership to move from raw data to **clear, actionable 
 ### Overview Dashboard
 
 <p align="center">
-  <img src="<img width="1402" height="799" alt="hr dashboard overview" src="https://github.com/user-attachments/assets/af78381b-68bd-45db-b96b-5d8a4762b3e3" />
-" width="900"/>
+  <img src="https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20details.png" width="900"/>
 </p>
 
 ### Employee Details Dashboard
 
 <p align="center">
-  <img src="<img width="1399" height="796" alt="hr dashboard details" src="https://github.com/user-attachments/assets/9415ad57-b11f-40a6-bb48-b938cd04e431" />
-" width="900"/>
+  <img src="https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20details.png" width="900"/>
 </p>
 
 ---
