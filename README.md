@@ -105,15 +105,6 @@ Key transformations applied:
 
 ---
 
-## How to Run
-
-1. Download the `.twbx` file
-2. Open in Tableau Desktop
-3. Interact with filters and visuals
-4. Navigate between Overview and Details dashboards
-
----
-
 ## Business Impact
 
 This dashboard helps organizations:
@@ -123,26 +114,6 @@ This dashboard helps organizations:
 * Analyze salary distribution and potential gaps
 * Understand workforce demographics
 * Support data-driven HR decisions
-
----
-
-## Project Structure
-
-```
-├── dataset.csv
-├── HR Dashboard.twbx
-├── Mockup.drawio
-└── README.md
-```
-
----
-
-## Future Improvements
-
-* Predictive attrition modeling
-* Real-time HR system integration
-* Diversity analytics enhancements
-* Advanced cohort and tenure analysis
 
 ---
 
