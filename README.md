@@ -26,6 +26,23 @@ It enables HR teams and leadership to move from raw data to **clear, actionable 
 
 ---
 
+## Dashboard Design (Wireframe)
+
+The initial layout and structure of the dashboard were planned using Draw.io to ensure clear information hierarchy and user-friendly navigation.
+
+<p align="center">
+  <img src="[YOUR_DRAWIO_IMAGE_LINK](https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20sketching.png)" width="800"/>
+</p>
+
+**Design Considerations:**
+- Clear separation between **Overview** and **Detailed views**
+- Logical grouping of HR metrics (Demographics, Income, Attrition)
+- Consistent visual hierarchy for quick scanning
+- Space optimization for dense HR data
+- Interactive filter placement for usability
+
+---
+
 ## Key Insights
 
 * Workforce size: **7,984 active employees**
