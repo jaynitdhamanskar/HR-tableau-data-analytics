@@ -1,122 +1,132 @@
 # Human Resources Analytics Dashboard
 
----
-
 ## Overview
 
-This project showcases a **Human Resources Analytics Dashboard** built using Tableau to analyze workforce data across hiring, attrition, demographics, and compensation.
+Designed and developed an interactive Human Resources Analytics Dashboard using Tableau to analyze workforce trends, employee demographics, hiring patterns, attrition, and compensation insights.
 
-It enables HR teams and leadership to move from raw data to **clear, actionable insights**.
-
----
-
-## Dashboard Preview
-
-### Overview Dashboard
-
-<p align="center">
-  <img src="https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20details.png" width="900"/>
-</p>
-
-### Employee Details Dashboard
-
-<p align="center">
-  <img src="https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20details.png" width="900"/>
-</p>
+The dashboard transforms raw HR data into business-ready analytics to support workforce planning and data-driven HR decision-making.
 
 ---
 
-## Dashboard Design (Wireframe)
+## Project Highlights
 
-The initial layout and structure of the dashboard were planned using Draw.io to ensure clear information hierarchy and user-friendly navigation.
-
-<p align="center">
-  <img src="https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20sketching.png" width="800"/>
-</p>
-
-**Design Considerations:**
-- Clear separation between **Overview** and **Detailed views**
-- Logical grouping of HR metrics (Demographics, Income, Attrition)
-- Consistent visual hierarchy for quick scanning
-- Space optimization for dense HR data
-- Interactive filter placement for usability
-
----
-
-## Key Insights
-
-* Workforce size: **7,984 active employees**
-* Hiring vs Attrition trends clearly visualized over time
-* Department-level workforce distribution highlights operational concentration
-* Gender diversity and education breakdown provide demographic insights
-* Salary analysis reveals trends across:
-
-  * Education levels
-  * Gender
-  * Age groups
-* Role-based salary clustering helps identify compensation patterns
+- Analyzed workforce data for:
+  - 7,984 active employees
+  - 8,950 hires
+  - 966 terminated employees
+- Developed 2 interactive Tableau dashboards for workforce overview and employee analysis
+- Delivered insights on:
+  - Hiring and attrition trends
+  - Workforce demographics
+  - Salary distribution
+  - Geographic employee distribution
+- Implemented employee-level drill-down reporting across departments, roles, and locations
 
 ---
 
-## Dashboard Features
+# Dashboard Overview
 
-### Overview View
+## Workforce Overview Dashboard
 
-* Hiring vs termination trends
-* Department-wise headcount
-* Location-based distribution
-* Gender split visualization
-* Education vs age analysis
-* Performance vs education matrix
-* Salary insights (education, gender, age correlation)
+Provides high-level workforce analytics including:
+- Active employee tracking
+- Hiring vs termination trends
+- Department distribution
+- Workforce demographics
+- Salary analysis
+- Geographic employee distribution
 
-### Details View
-
-* Employee-level drill-down
-* Role, department, and geography
-* Salary and tenure tracking
-* Employment status indicators
-* Interactive filtering for deep analysis
+![Overview Dashboard](assets/hr_dashboard_overview.png)
 
 ---
 
-## Data Processing
+## Employee Details Dashboard
 
-Key transformations applied:
+Provides employee-level workforce analysis including:
+- Employee demographics
+- Role and department information
+- Salary analysis
+- Employment status tracking
+- Tenure analysis
+- Interactive filtering and drill-down capabilities
 
-* Date standardization (Hire Date, Birth Date, Term Date)
-* Derived metrics:
-
-  * Age
-  * Tenure
-  * Employment Status
-* Handling null values for active employees
-* Aggregations for department, education, and location insights
-
----
-
-## Tech Stack
-
-| Tool    | Purpose                   |
-| ------- | ------------------------- |
-| Tableau | Dashboard & Visualization |
-| CSV     | Data Source               |
-| Draw.io | Dashboard Wireframing     |
+![Employee Details Dashboard](assets/hr_dashboard_details.png)
 
 ---
 
-## Business Impact
+# Dashboard Design
 
-This dashboard helps organizations:
+The dashboard structure and layout were initially designed using Draw.io to ensure:
+- Clear information hierarchy
+- Logical grouping of HR metrics
+- Consistent dashboard navigation
+- Improved usability and interaction flow
 
-* Track workforce growth and attrition
-* Identify high-risk departments
-* Analyze salary distribution and potential gaps
-* Understand workforce demographics
-* Support data-driven HR decisions
+![Dashboard Wireframe](assets/hr_dashboard_sketching.png)
 
 ---
 
-## Author
+# Key Insights
 
-**Jaynit Dhamanskar**
+- Workforce is concentrated primarily in Operations, Sales, and Customer Service departments
+- New York and Michigan represent the largest employee populations
+- Average employee salary is approximately $70K
+- Hiring and attrition trends provide visibility into workforce growth and stability
+- Salary distribution varies across roles, education levels, and age groups
+
+---
+
+# Data Processing
+
+Applied transformations and calculated metrics including:
+- Date standardization
+- Age calculation
+- Tenure calculation
+- Employment status derivation
+- Null handling for active employees
+- Department and location aggregations
+
+---
+
+# Technology Stack
+
+| Layer | Technology |
+|---|---|
+| Visualization | Tableau |
+| Data Source | CSV |
+| Dashboard Design | Draw.io |
+| Version Control | Git & GitHub |
+
+---
+
+# Dashboard Features
+
+## Workforce Analytics
+- Hiring vs attrition trends
+- Department-level workforce analysis
+- Geographic employee distribution
+- Workforce demographic analysis
+
+## Compensation Analytics
+- Salary distribution by education and gender
+- Age vs salary analysis
+- Role-level compensation insights
+
+## Employee-Level Reporting
+- Employee drill-down analysis
+- Department and role filtering
+- Tenure and employment status tracking
+
+---
+
+# Business Impact
+
+The dashboard enables HR teams and leadership to:
+- Monitor workforce growth and attrition
+- Analyze salary and compensation trends
+- Understand workforce demographics
+- Identify staffing concentration across departments and locations
+- Support data-driven HR decision-making
+
+---
+
