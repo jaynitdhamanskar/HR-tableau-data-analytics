@@ -26,6 +26,18 @@ The dashboard transforms raw HR data into business-ready analytics to support wo
 
 # Dashboard Overview
 
+## Dashboard Design
+
+The dashboard structure and layout were initially designed using Draw.io to ensure:
+- Clear information hierarchy
+- Logical grouping of HR metrics
+- Consistent dashboard navigation
+- Improved usability and interaction flow
+
+![Dashboard Wireframe](https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20sketching.png)
+
+---
+
 ## Workforce Overview Dashboard
 
 Provides high-level workforce analytics including:
@@ -36,7 +48,7 @@ Provides high-level workforce analytics including:
 - Salary analysis
 - Geographic employee distribution
 
-![Overview Dashboard](assets/hr_dashboard_overview.png)
+![Overview Dashboard](https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20overview.png)
 
 ---
 
@@ -50,19 +62,7 @@ Provides employee-level workforce analysis including:
 - Tenure analysis
 - Interactive filtering and drill-down capabilities
 
-![Employee Details Dashboard](assets/hr_dashboard_details.png)
-
----
-
-# Dashboard Design
-
-The dashboard structure and layout were initially designed using Draw.io to ensure:
-- Clear information hierarchy
-- Logical grouping of HR metrics
-- Consistent dashboard navigation
-- Improved usability and interaction flow
-
-![Dashboard Wireframe](assets/hr_dashboard_sketching.png)
+![Employee Details Dashboard](https://github.com/jaynitdhamanskar/hr-tableau-data-analytics/blob/main/assets/hr%20dashboard%20details.png)
 
 ---
 
